@@ -9,3 +9,5 @@ console.log(favoritecolor)
 
 let number = prompt (`Please enter your number`)
 console.log(number)
+
+let html = (document.getElementById(`password`)).innerHTML = h2$(username, usersurname, favoritecolor, number);

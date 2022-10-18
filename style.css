@@ -5,3 +5,8 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+#h2Password{
+    /* padding-top: 302px; */
+    color: orangered
+}
